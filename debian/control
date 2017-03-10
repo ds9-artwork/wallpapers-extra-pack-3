@@ -1,0 +1,11 @@
+Source: wallpapers-extra-pack-3
+Section: admin
+Priority: optional
+Maintainer: Leszek Lesner <leszek@zevenos.com>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: wallpapers-extra-pack-3
+Architecture: all
+Description: Extra Wallpapers
+ Extra 2 Wallpapers
